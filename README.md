@@ -1,44 +1,31 @@
-# Coal_Company
+# 🌍 Atlas Coal Export — Company Profile Website
 
-This template should help get you started developing with Vue 3 in Vite.
+A modern and responsive **company profile website** for **Atlas Coal Export**, a global coal trading company.  
+Built with **Vue.js (Vite)** to deliver a clean user experience, smooth animations, and fast performance.
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🚀 Tech Stack
+- **Frontend:** Vue.js 3 (Vite)
+- **Styling:** Tailwind CSS
+- **Animations:** AOS (Animate On Scroll)
+- **Deployment Ready:** Optimized for static hosting (e.g. Netlify, Vercel)
 
-## Recommended Browser Setup
+---
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## 🧩 Features
+- ✅ **Landing Page** with modern layout  
+- 🏢 **Company Introduction** section  
+- ⚒️ **Products Showcase** with visuals  
+- 🌎 **Why Choose Us** (in English) highlights trust & global standards  
+- 📸 **Gallery** with image grid  
+- 📞 **Contact Form** (ready to connect with email API)  
+- 📱 **Fully Responsive** design for all devices
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 🛠️ Project Setup
 
-## Project Setup
-
-```sh
+### Install dependencies
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
