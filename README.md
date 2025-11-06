@@ -17,7 +17,7 @@ Built with **Vue.js (Vite)** to deliver a clean user experience, smooth animatio
 - ✅ **Landing Page** with modern layout  
 - 🏢 **Company Introduction** section  
 - ⚒️ **Products Showcase** with visuals  
-- 🌎 **Why Choose Us** (in English) — highlights trust & global standards  
+- 🌎 **Why Choose Us** (in English) highlights trust & global standards  
 - 📸 **Gallery** with image grid  
 - 📞 **Contact Form** (ready to connect with email API)  
 - 📱 **Fully Responsive** design for all devices
