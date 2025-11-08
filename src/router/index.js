@@ -4,14 +4,15 @@ import LandingPage from '@/pages/LandingPage.vue'
 
 const routes = [
   {
-    name: "/",
+    path: "/",
+    name: "Home",
     component: LandingPage
   },
   {}
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/Coal_Company/'),
   routes
 })
 
